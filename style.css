@@ -191,5 +191,6 @@ a{
 
 .menubarGo{
     transform: translate(-264px,0px);
-        position: absolute;
+    position: absolute;
+    height:100%;
 }
