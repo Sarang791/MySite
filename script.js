@@ -10,7 +10,7 @@ function downloadResume() {
     // Creating an invisible link element
     var link = document.createElement('a');
     link.href = resumePath;
-    link.download = 'SarangMore.pdf';
+    link.download = 'SarangCV.pdf';
 
     // Appending the link to the document
     document.body.appendChild(link);
