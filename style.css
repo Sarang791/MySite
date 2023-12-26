@@ -122,10 +122,6 @@ a{
     /* border: 5px black solid; */
 }
 
-.col{
-    /* background-color: aqua; */
-}
-
 .skillBox img{
     width: 7em;
 }
@@ -141,7 +137,7 @@ a{
     align-items: center;
 }
 
-.python{
+/* .python{
     
 }
 
@@ -167,15 +163,15 @@ a{
 
 .sql{
 
-}
+} */
 
 .mongo > img{
     width: 3em;
 }
 
-.ds{
+/* .ds{
 
-}
+} */
 
 .about-skills{
     text-align: center;
