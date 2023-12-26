@@ -5,7 +5,7 @@ $(".navbar>img").click(function (){
 function downloadResume() {
             
     // Replace 'path/to/your/resume.pdf' with the actual path to your resume file
-    var resumePath = './Sarang More.pdf';
+    var resumePath = './SarangMore.pdf';
     
     // Creating an invisible link element
     var link = document.createElement('a');
